@@ -3,7 +3,7 @@
 
 **Who am i**
 
-This is Hammad Tariq , currently working as a Principal Software Engineer at Nisum. I am a Full Stack developer with more than 6 years of experience in design, development, and support for web/mobile enterprise applications.
+This is Hammad Tariq , currently working as a Technical Lead at Nisum. I am a Full Stack developer with more than 6 years of experience in design, development, and support for web/mobile enterprise applications.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     
