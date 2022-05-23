@@ -3,14 +3,14 @@
 
 **Who am i**
 
-This is Hammad Tariq , currently working as a Technical Lead at Nisum. I am a Full Stack developer with more than 6 years of experience in design, development, and support for web/mobile enterprise applications.
+This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am a Full Stack developer with more than 7 years of experience in design, development, and support for web/mobile enterprise applications.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on an ecommerce project that uses MERN Stack with AWS Lambda;
-- 🌱 I’m currently learning python for AI; 
+- 🌱 I’m currently learning solidity for Web 3.0; 
 - 👯 I’m looking to collaborate on [handsontable](https://github.com/handsontable) 🤝;
 - 💬 Ask me about anything, related to JS technologies I will be happy to help;
 - ⚡️ Fun-Fact: I give tech talks for trending tools and framework in JS community;
