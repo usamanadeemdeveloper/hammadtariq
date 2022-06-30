@@ -3,7 +3,7 @@
 
 **Who am i**
 
-This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am a Full Stack developer with more than 7 years of experience in design, development, and support for web/mobile enterprise applications.
+This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am a Full Stack developer with more than 7 years of experience in design, development, and support for web/mobile enterprise applications has expertise in ReactJS, NodeJS and Angular.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     
