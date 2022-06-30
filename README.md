@@ -9,10 +9,10 @@ This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am 
     
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on an ecommerce project that uses MERN Stack with AWS Lambda;
-- 🌱 I’m currently learning solidity for Web 3.0; 
-- 👯 I’m looking to collaborate on [handsontable](https://github.com/handsontable) 🤝;
-- 💬 Ask me about anything, related to JS technologies I will be happy to help;
+- 👨🏽‍💻 Currently working on a web 3.0 project that uses solidity, hardhat, ethers and reactjs;
+- 🌱 Learning Web 3.0 development; 
+- 👯 Looking to collaborate on [cryptozombie](https://github.com/loomnetwork/cryptozombies-lesson-code) 🤝;
+- 💬 Loves to talk about anything related to JS and Web 3.0 technologies;
 - ⚡️ Fun-Fact: I give tech talks for trending tools and framework in JS community;
 - 📫 How to reach me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hammadtariq/)
