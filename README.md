@@ -3,16 +3,16 @@
 
 **Who am i**
 
-This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am a Full Stack engineer with more than 7 years of experience in design, development, and support for web/mobile enterprise applications has expertise in ReactJS, NodeJS and Angular.
+This is Hammad Tariq , currently working as a Technical Lead at Talpods. I am a Full Stack engineer with more than 10 years of experience in design, development, and support for web/mobile enterprise applications has expertise in ReactJS, NodeJS, Angular and AWS services.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
     
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Currently working on a web 3.0 project that uses solidity, hardhat, ethers and reactjs;
-- 🌱 Learning Web 3.0 development; 
-- 👯 Looking to collaborate on [cryptozombie](https://github.com/loomnetwork/cryptozombies-lesson-code) 🤝;
-- 💬 Loves to talk about anything related to JS and Web 3.0 technologies;
+- 👨🏽‍💻 Currently working on a AWS/PDK project that uses Typescript, Smithy, AWS services and Reactjs;
+- 🌱 Learning AI development; 
+- 👯 Looking to collaborate on [Langbase](https://github.com/LangbaseInc) 🤝;
+- 💬 Loves to talk about anything related to Technology and Space;
 - ⚡️ Fun-Fact: I give tech talks for trending tools and framework in JS community;
 - 📫 How to reach me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hammadtariq/)
@@ -33,8 +33,10 @@ This is Hammad Tariq , currently working as a Sr. Technical Lead at Nisum. I am 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
