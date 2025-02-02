@@ -147,9 +147,11 @@ This is Hammad Tariq , currently working as a Technical Lead at Talpods. I am a 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq&theme=radical&hide_border=false" width="48%" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadtariq&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadtariq&theme=radical&hide_border=false" width="45%">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadtariq/hammadtariq/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadtariq/hammadtariq/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hammadtariq/hammadtariq/output/github-snake.svg" />
+</picture>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
